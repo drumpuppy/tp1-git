@@ -1,2 +1,1 @@
-test
-
+resolved conflict test
